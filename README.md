@@ -1,6 +1,6 @@
 # DengAI: Predicting Dengue Fever Spread
 
-This is my solution of the DengAI challenge, which was posted on DrivenData.org. 
+This is my solution of the DengAI challenge, which was hosted on DrivenData.org. 
 
 You can find the description and the data here: https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
 
