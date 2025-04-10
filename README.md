@@ -27,9 +27,9 @@ The problem should be addressed using offline supervised learning. Performance o
 
 * climate data can be used to predict mosquito populations
 
-Evidence:
+*Evidence:*
 
-*Research indicates that the daily mean temperature and the variation in temperature are two of the most important drivers of the current distribution and incidence of dengue. Precipitation and precipitation extremes, whether associated with drought or excess rainfall, also affect mosquito abundance and arbovirus incidence. Studies generally project that, as temperatures continue to rise and precipitation patterns change, opportunities are increasing for further geographical expansion of Aedes vectors and of dengue.*
+"Research indicates that the daily mean temperature and the variation in temperature are two of the most important drivers of the current distribution and incidence of dengue. Precipitation and precipitation extremes, whether associated with drought or excess rainfall, also affect mosquito abundance and arbovirus incidence. Studies generally project that, as temperatures continue to rise and precipitation patterns change, opportunities are increasing for further geographical expansion of Aedes vectors and of dengue."
 
 Ebi, K. L., & Nealon, J. (2016). Dengue in a changing climate. Environmental research, 151, 115-123.
 
