@@ -1,6 +1,6 @@
 # DengAI: Predicting Dengue Fever Spread
 
-This data project is about predicting disease spread using environmental data as well as historic numbers for reported cases.
+This data project is about predicting disease spread using environmental data as well as historic numbers for reported cases in San Juan, Puerto Rico and Iquitos, Peru.
 
 *Background:*
 
@@ -16,7 +16,7 @@ Goal definition:
 
 ## The Big Picture
 
-A solution to this problem could help medical service providers in SJ and IQ to handle the disease: reducing response time, providing vaccine in time, as well as antibiotics and the hospital capacity to treat the disease.
+A solution to this problem could help medical service providers in San Juan, Puerto Rico and Iquitos, Peru to handle the disease: reducing response time, providing vaccine in time, as well as antibiotics and the hospital capacity to treat the disease.
 
 According to WHO, such methods are already employed for diseases that have epidemic potential:
 http://www.who.int/globalchange/publications/oeh0401/en/index4.html
